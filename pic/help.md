@@ -1,4 +1,12 @@
 # Change Log
+## version 4.5.7.73(2020-12-11)
+### Bug Fixes
+* #80
+## version 4.5.7.72(2020-12-06)
+### Bug Fixes
+* #36 #4
+### invalid issues
+* #38 #79
 ## version 4.5.7.71(2020-10-18)
 ### Bug Fixes
 * #71
